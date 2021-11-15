@@ -6,7 +6,7 @@ Estudo da gem **active model serializer** e da gem **apipie-rails**, seguindo es
 * Rails: 6.1.4
 * Database: SQLite3
 
-####Links:
+### Links:
 * gem **active model serializer**: https://github.com/rails-api/active_model_serializers
 * gem **apipie-rails**: https://github.com/Apipie/apipie-rails
 * tutorial: https://medium.com/jaguaribetech/rails-api-active-model-serializers-e-apipie-329aecd6deb7
